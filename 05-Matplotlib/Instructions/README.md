@@ -32,7 +32,7 @@ Your tasks are to do the following:
 
   **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
-* Generate a line plot of time point versus tumor volume for a single mouse treated with Capomulin.
+* Generate a line plot of time point versus tumor volume for **mouse number l509** treated with Capomulin.
 
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
